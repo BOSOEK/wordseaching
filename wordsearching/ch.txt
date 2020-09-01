@@ -1,0 +1,1 @@
+scanf/printf/int/float/double/char/void/return/stdio.h/gets/getchar/puts/putchar/huie/apple/apple/
